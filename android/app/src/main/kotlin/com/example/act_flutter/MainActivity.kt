@@ -1,4 +1,4 @@
-package ec.edu.utpl.act_flutter
+package com.example.act_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 

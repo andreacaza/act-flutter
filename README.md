@@ -1,6 +1,6 @@
 # act_flutter
 
-Actividad bimestre dos Flutter Sarahi Caza
+A new Flutter project.
 
 ## Getting Started
 
